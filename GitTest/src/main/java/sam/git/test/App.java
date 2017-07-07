@@ -1,8 +1,8 @@
 package sam.git.test;
 
 /**
- * Hello world!
- * something else
+ * Hello world! by Sam Test
+ * Hello, merge success
  */
 public class App 
 {
