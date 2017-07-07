@@ -2,7 +2,7 @@ package sam.git.test;
 
 /**
  * Hello world!
- *
+ * something else
  */
 public class App 
 {
