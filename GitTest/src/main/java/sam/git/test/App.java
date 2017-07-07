@@ -1,7 +1,7 @@
 package sam.git.test;
 
 /**
- * Hello world!
+ * Hello world! by Sam Test
  *
  */
 public class App 
